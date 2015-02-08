@@ -1,0 +1,11 @@
+
+#include<stdio.h>
+
+int main (void)
+{
+    printf("1. in C, lowercase letter are significant.\n");
+    printf("main is where program execuition begins.\n");
+    printf("openning and closing braces enclose program statements in a routine\n");
+    printf("all program statements must be terminated by a semicolon\n");
+    return (0);
+}
